@@ -1,3 +1,4 @@
+#parent class
 class Card:
     # attributes
 
@@ -9,4 +10,3 @@ class Card:
     def printCard(self):
         print('Name: ', self.name)
         print('Cost: ', self.cost)
-        
